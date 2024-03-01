@@ -42,21 +42,14 @@ Provide filters for refining search results based on genres, ratings, or publica
 
 ## Screenshots
 
-![Homepage](https://github.com/razzivofficial/PrismLens/assets/91611270/984c08d6-9855-453c-bedd-9470edd7129f)
-![3D-Trial](https://github.com/razzivofficial/PrismLens/assets/91611270/17cf2e6f-e6c8-44a8-bbb5-4ad5f755e1f3)
-![Add-to-cart](https://github.com/razzivofficial/PrismLens/assets/91611270/fe773d5a-6849-4f0c-8081-5ed62e2d189b)
-![cart-page](https://github.com/razzivofficial/PrismLens/assets/91611270/c188fa4f-f4a6-47ff-8199-b9701b6504d8)
-![order-placed](https://github.com/razzivofficial/PrismLens/assets/91611270/ac462363-8490-4568-bcfc-beed5c76695f)
-![orders](https://github.com/razzivofficial/PrismLens/assets/91611270/afcdf205-33b5-4529-af2b-d7518948f26a)
-![eye-tests](https://github.com/razzivofficial/PrismLens/assets/91611270/a3c65822-8380-4715-8dce-0f24807ed929)
-![eye-test-2](https://github.com/razzivofficial/PrismLens/assets/91611270/7e0b4ee0-8c02-488a-ba2e-5215a45d8b48)
-![color-blindness-test](https://github.com/razzivofficial/PrismLens/assets/91611270/79910f55-5ef6-45e5-afef-ea8be524e545)
-![color-blindness-test1](https://github.com/razzivofficial/PrismLens/assets/91611270/127f574e-549e-447b-b11b-729179f04add)
-![color-blindness-test2](https://github.com/razzivofficial/PrismLens/assets/91611270/a5a0a2fc-189e-49c4-b9d2-f697d3b34824)
-![color-blindness-test3](https://github.com/razzivofficial/PrismLens/assets/91611270/f9961eff-7cdd-4fbc-bb7e-cc28b0013782)
-![power-test1](https://github.com/razzivofficial/PrismLens/assets/91611270/71fafc35-2ef8-424a-bf60-c2128c6a4d7d)
-![power-test2](https://github.com/razzivofficial/PrismLens/assets/91611270/a9617b72-aecc-4740-b675-2dc241f0f5bb)
-![power-test3](https://github.com/razzivofficial/PrismLens/assets/91611270/5570d1f1-bd73-462b-be50-c21c6e2710c2)
+![Screenshot 2024-03-01 233908](https://github.com/tushargandhi77/Book-Recommender-system-using-ML/assets/104029815/dfd88097-0a05-463b-ae92-2da29c3d4810)
+![Screenshot 2024-03-01 233923](https://github.com/tushargandhi77/Book-Recommender-system-using-ML/assets/104029815/0efef070-1fce-4fa4-855b-4ffbed9b5fb7)
+![Screenshot 2024-03-01 233941](https://github.com/tushargandhi77/Book-Recommender-system-using-ML/assets/104029815/960dfb84-eefe-4b0d-ba75-432a55fca524)
+![Screenshot 2024-03-01 233957](https://github.com/tushargandhi77/Book-Recommender-system-using-ML/assets/104029815/9ab54ae1-21d6-4cc7-a739-1c2988f3846e)
+![Screenshot 2024-03-01 234011](https
+![Screenshot 2024-03-01 234034](https://github.com/tushargandhi77/Book-Recommender-system-using-ML/assets/104029815/d9b3d264-a085-4d88-ac81-81cd507a0de8)
+://github.com/tushargandhi77/Book-Recommender-system-using-ML/assets/104029815/ed927709-0494-4a62-9621-93ba4ace24a3)
+
 
 
 ## Conclusion:
