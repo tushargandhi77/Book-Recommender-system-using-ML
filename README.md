@@ -42,13 +42,13 @@ Provide filters for refining search results based on genres, ratings, or publica
 
 ## Screenshots
 
-![Screenshot 2024-03-01 233908](https://github.com/tushargandhi77/Book-Recommender-system-using-ML/assets/104029815/dfd88097-0a05-463b-ae92-2da29c3d4810)
-![Screenshot 2024-03-01 233923](https://github.com/tushargandhi77/Book-Recommender-system-using-ML/assets/104029815/0efef070-1fce-4fa4-855b-4ffbed9b5fb7)
-![Screenshot 2024-03-01 233941](https://github.com/tushargandhi77/Book-Recommender-system-using-ML/assets/104029815/960dfb84-eefe-4b0d-ba75-432a55fca524)
-![Screenshot 2024-03-01 233957](https://github.com/tushargandhi77/Book-Recommender-system-using-ML/assets/104029815/9ab54ae1-21d6-4cc7-a739-1c2988f3846e)
-![Screenshot 2024-03-01 234011](https
-![Screenshot 2024-03-01 234034](https://github.com/tushargandhi77/Book-Recommender-system-using-ML/assets/104029815/d9b3d264-a085-4d88-ac81-81cd507a0de8)
-://github.com/tushargandhi77/Book-Recommender-system-using-ML/assets/104029815/ed927709-0494-4a62-9621-93ba4ace24a3)
+![Screenshot 2024-03-01 233908](https://github.com/tushargandhi77/Book-Recommender-system-using-ML/assets/104029815/b9caa1da-6736-43f0-a8bb-6e6b266781c0)
+![Screenshot 2024-03-01 233923](https://github.com/tushargandhi77/Book-Recommender-system-using-ML/assets/104029815/70f9a6e1-9d11-439a-924c-81738aa21def)
+![Screenshot 2024-03-01 233941](https://github.com/tushargandhi77/Book-Recommender-system-using-ML/assets/104029815/91d3a11f-5a9c-4be5-ba95-8a8d08e6502f)
+![Screenshot 2024-03-01 233957](https://github.com/tushargandhi77/Book-Recommender-system-using-ML/assets/104029815/96e52bf9-3b50-47a6-bd01-536b0fbc1254)
+![Screenshot 2024-03-01 234011](https://github.com/tushargandhi77/Book-Recommender-system-using-ML/assets/104029815/17fb7f87-5397-4923-8b39-56bcd0a3a07d)
+![Screenshot 2024-03-01 234034](https://github.com/tushargandhi77/Book-Recommender-system-using-ML/assets/104029815/04d63600-2b0c-416b-adb8-75184a27e0dc)
+
 
 
 
