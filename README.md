@@ -1,5 +1,10 @@
 ﻿## Book Recommender System
 
+![Data Science](https://img.shields.io/badge/Data%20Science-Project-blue)
+![Python](https://img.shields.io/badge/Python-3.10+-green)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Models-orange)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+
 The Book Recommender System is a personalized recommendation engine designed to assist users in discovering books based on their preferences and past reading habits.
 
 ## Introduction
